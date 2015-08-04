@@ -1,7 +1,7 @@
 Package: com.mohammadag.alwaysforwardwatchosnotifications
 Name: Always Forward WatchOS Notifications
 Depends: mobilesubstrate, cy+os.ios ( >= 8.2)
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Forward WatchOS notifications even when unlocked
 Maintainer: Mohammad Abu-Garbeyyeh
